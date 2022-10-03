@@ -1,0 +1,3 @@
+[submodule "git-labwork-2-sub"]
+	path = git-labwork-2-sub
+	url = git@github.com:Valerochka1337/git-labwork-2-sub.git
